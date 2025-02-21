@@ -1,6 +1,6 @@
 USE `UniversityDB`;
 
- CREATE TABLE `Enrollments` (
+CREATE TABLE `Enrollments` (
 `EnrollmentID` INT PRIMARY KEY AUTO_INCREMENT,
 `StudentID` INT,
 `CourseID` INT,
